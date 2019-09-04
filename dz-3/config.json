@@ -1,0 +1,15 @@
+{
+  "mail": {
+    "subject": "Сообщение с сайта",
+    "site": "test",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 465,
+      "secure": true,
+      "auth": {
+        "user": "testtestsanton@gmail.com",
+        "pass": "****"
+      }
+    }
+  }
+}
