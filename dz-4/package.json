@@ -18,7 +18,7 @@
     "koa-session": "^5.8.1",
     "koa-static": "^4.0.3",
     "nconf": "^0.10.0",
-    "nodemailer": "^4.6.5",
+    "nodemailer": "^6.4.16",
     "pug": "^2.0.3"
   }
 }
